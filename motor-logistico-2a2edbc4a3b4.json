@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "motor-logistico",
+  "private_key_id": "2a2edbc4a3b4826ab831603aa2f577dfbf06846b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsTuiDCS8iWEih\nrrX9I46U3JKQp59CF6GLlaLNl1mb9QZ9BZV173F/ivV6+8PxuB7XKxXQxIaK0Hru\nfocbolcT5p6ZBXX29iBndyjQ5q+NFvBAXTK1Eget6YP/xSk66rZFFBh7A2aD8Dt8\n/KyTTR2M8JL+AfXRewitGrjSVpOzTmEQoL0NDB9fo1Us5/0JopwTme4Koo5guqbz\nCIvqKKypA4kaUFpOY7v4xKRQDAiziH7LX8/4bACIGez95yKaXKjRadEp2CZZgomL\n3BpwKQpe6t3lXIcT8yKSlr0iZT0iOiiD/G+Wv9lgMhOOBhLHbOkQ6P1oOw6s1cTx\n6rPLAKOTAgMBAAECggEATBxU1yC06bpOZuCp8aWFoxqlQPFRxxtyF5qivaaHhfye\n/5V6VgxMuZZTZZ4VCM4YDVoyOjO87E83peZM3reAOEGrt5LybwJ8AMfhRxlG3Q8P\nU5b3QYUz0C2wSUe5NRWdKnk8cQXpAAma9VQVFMHA9lMD0uBhyUTL6c6+aealOlOA\njxIMpnX3RzsVz4g6WVqs3asNiOInKQXVLO8r5M+zEkqiSWgh85g5B0lJTBoFbySz\nJAcfzYZRely471CCQ5YCPMaCaQKCLB/l+gVQPW4pjxihhOE3C9H+Eaa7CvuRLQH3\nIZO2gJxSFpZeFWJJDJ2umtowEyUqwC9UHANa/V8xWQKBgQDbydEU36STJI1louHz\n49XHV0b4LJwjOPVkicPPVONR5ArzfPXNxypEn1n26e+t1u8kH6MOipUqfUDFuhlv\nLHPFu+Udu2zlfX/oiXwn4ahEe0sM/4YhjfVJKX4VVilH1oufrsyd2+TCSvSeDUKA\nnDXcn79ssUeeNmbGSBbNxCXlOQKBgQDIsnxxrRL0hbzO6AgmfAtKCfJfSMeVCkBv\nlJNQsxOPHOlMURJ7VtrESSxYPAt6KTz86GinKKOum8m7g3Hbs2pipWD7MKY4A9OZ\ndBIG5gM+GkGm0SD8aEX8Jm7U5GttdSWPPmfYYJAekdMidTT5N1QLNmeq/nSlJvr2\nuloK2kc7KwKBgH3wkdblI5eQ/Vi80b5/0fKspyTz4vAn5i0a59G48ZzuD/xfoTWt\npyG1McbTW5yAKX3IhxWBAWJcbS4fqg1TKm+mb+3uhMKnfBCSH0t2+YVsJKApFwHJ\nJ0Ep/m5ZdcQNQupYLjVSWC2g57RdIrsxR4fJHdY5azFUOOXrTu3PNGu5AoGBALbE\nZDOZa6OmjvTVtWZmnFlGiaRgQPDnLxrt8OIS0oMHzyWixvPverY59No9hC4xk8q1\nU2i2x6jhUmsjHvL2hrFi7diSyyxDv9UFMM17dgR+IL9rv2BdDS69ST0y7un1Pske\nCa+w8E4GeoHsvtsdmbnER9AefddQkkdSGWG8uhWVAoGAFewqosCIK7KTN8F6N/rW\n38NXISehh1xbWm6nMECn6zc0V5Vd1ykyaEQfsjvBhGvTxrRoc5bJp8Oe2GW54FSi\nOQAFeQDlx6ewNwnm7QeDDqgLWRXsum24xrtDsQVHoMmaF6OWnMAT2cCDVYCvpGvt\nPx+z0Z0cclTHGtNyHaqwaps=\n-----END PRIVATE KEY-----\n",
+  "client_email": "motor-logistico-544@motor-logistico.iam.gserviceaccount.com",
+  "client_id": "107476844496539913983",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/motor-logistico-544%40motor-logistico.iam.gserviceaccount.com"
+}
